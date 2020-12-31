@@ -1,4 +1,10 @@
 """ Solutions for $problem: the <> problem """
 
 if __name__ == '__main__':
-    print('Solution for Part1: ')
+    rules = 'read input'
+
+    solution_1 = ''
+    print(f'Part 1 solution: {solution_1}')
+
+    solution_2 = ''
+    print(f'Part 2 solution: {solution_2}')
