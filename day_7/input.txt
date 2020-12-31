@@ -592,4 +592,3 @@ dark chartreuse bags contain no other bags.
 pale gold bags contain 2 mirrored olive bags, 2 drab violet bags.
 wavy teal bags contain 1 dark maroon bag, 5 muted chartreuse bags, 1 shiny black bag, 3 dotted aqua bags.
 bright fuchsia bags contain 1 muted cyan bag.
-

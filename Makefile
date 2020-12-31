@@ -12,3 +12,6 @@ debug:
 
 new:
 	bash ./bin/new.sh ${problem}
+
+clean:
+	find . -name '*pycache*' -exec rm -rf '{}' +;
