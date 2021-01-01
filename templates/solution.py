@@ -1,4 +1,5 @@
 """ Solutions for $problem: the <> problem """
+from read_input import read
 
 if __name__ == '__main__':
     rules = 'read input'
